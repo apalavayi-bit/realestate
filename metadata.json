@@ -1,0 +1,12 @@
+{
+  "name": "Sky City Real Estate",
+  "description": "Premium real estate platform for property search, site visits, and property management in Andhra Pradesh.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time property updates",
+    "Lead management",
+    "EMI calculation"
+  ]
+}
